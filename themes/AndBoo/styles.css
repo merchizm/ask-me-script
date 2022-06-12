@@ -1,0 +1,84 @@
+.ribbon {
+  width: 100%;
+  height: 40vh;
+  background-color: #3F51B5;
+  flex-shrink: 0;
+}
+
+.demo-main {
+  margin-top: -35vh;
+  flex-shrink: 0;
+}
+
+.demo-header .mdl-layout__header-row {
+  padding-left: 40px;
+}
+
+.demo-container {
+  max-width: 1600px;
+  width: calc(100% - 16px);
+  margin: 0 auto;
+}
+
+.demo-layout.is-small-screen .demo-content {
+  padding: 40px 28px;
+}
+
+.demo-content h3 {
+  margin-top: 48px;
+}
+
+.demo-footer {
+  padding-left: 40px;
+}
+
+.demo-footer .mdl-mini-footer--link-list a {
+  font-size: 13px;
+}
+
+.icerik {
+	margin-top: 10px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+    margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 80px;
+	width: 884px;
+	background-color:#fff; 
+}
+
+.profil {
+    background-image: url(../../images/profilbg.jpg);
+	width: 884px;
+    height: 220px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-position: bottom;
+    margin: auto;
+	-moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+	position: relative;
+}
+
+
+.profilyazi {
+	color:#fff;
+	font-size: 130%;
+	padding-top: 1px;
+    padding-right: 1px;
+    padding-bottom: 1px;
+    padding-left: 1px;
+	text-shadow: 1px 1px 6px #000;
+}
+
+.soru {
+	width: 856px;
+	height: 100px;
+	position: static;
+}
+.bosluk{
+	background-color:#f2f2f2; 
+	height: 10px;
+}	
